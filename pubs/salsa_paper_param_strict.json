@@ -1,0 +1,7 @@
+{
+    'filter': "exponential",
+    'threshold': 10,
+    'window': 72,
+    'fftThreshold': 2.5,
+    'fftDampenFactor': .85
+}

@@ -1,0 +1,5 @@
+{
+'filter': "uniform",
+'control', 2,
+'window': 10
+}

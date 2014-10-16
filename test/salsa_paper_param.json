@@ -1,0 +1,7 @@
+{
+    'filter' = "uniform"
+    'threshold' = 10
+    'window' = 300
+    'fftTreshold' = 3
+    'fftDampenFactor' = .8
+}

@@ -1,0 +1,11 @@
+path config working--want to make sure there are no scripts in path to dir of R functions
+
+Each time we want to do R analysis, dynamic scripting?
+
+
+
+run path config
+read data: http://stackoverflow.com/questions/11553592/r-generic-flattening-of-json-to-data-frame
+do prescribed analyses
+output data
+terminate session

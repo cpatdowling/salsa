@@ -1,0 +1,7 @@
+# Calls these functions upon loading
+.First <- function(){
+}
+
+local({r <- getOption("repos")
+r["CRAN"] <- "http://ftp.osuosl.org/pub/cran/"
+options(repos=r)})

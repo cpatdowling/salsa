@@ -1,5 +1,7 @@
 #Chase Dowling, 09/16/2013, chase.dowling@pnnl.gov
 
+version 0.1.0
+
 SALSA is designed for the analysis of large amounts of web social media data
 --time series and graphical data--by collecting and counting features within
  the data, detecting and clustering events in the feature data, and predicting event types in time series.
@@ -8,7 +10,7 @@ SALSA is designed for the analysis of large amounts of web social media data
 
     -Python 2.7.3 or greater
     -Matlab 2012a or greater
-    -R-3.0.1 or greater
+    -R-3.0.1 or (R is being transitioned to Numpy due to deep R-3.1.1 compatability issues)
     -UNIX based OS (Limited/untested Windows compatability)
 
 ===Included Analytics===

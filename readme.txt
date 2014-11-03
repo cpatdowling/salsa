@@ -2,6 +2,8 @@
 
 version 0.1.0
 
+SALSA is currently in beta. Things will break, particularly when using versions of R greater than 3.0.1
+
 SALSA is designed for the analysis of large amounts of web social media data
 --time series and graphical data--by collecting and counting features within
  the data, detecting and clustering events in the feature data, and predicting event types in time series.
